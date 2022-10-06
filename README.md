@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/myhackera/Sudoku Solver/assets/thumbnail.png" width="256" height="256">
+  <img src="https://github.com/myhackera/Sudoku-Solver/assets/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?!</h2>
   <p align="center">
     <a href="https://github.com/myhackera/Sudoku Solver/LICENSE">
@@ -14,7 +14,6 @@
 	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 </p>
 <p align="center">   
-	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
     	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
 </p>
@@ -43,7 +42,7 @@ This Script is a Sudoku Solver that solves almost any Sudoku Puzzle by visualizi
 -	This will commence a visual which will demonstrate how the backtracking algorithm works and how it is being applied in order to solve the board.
 
 <p align="center">
-	<img src="https://github.com/myhackera/SudokuSolver/assets/Visualizer.gif">
+	<img src="https://github.com/myhackera/Sudoku-Solver/assets/Visualizer.gif">
 </p>
 
 ## Input:
