@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/myhackera/Sudoku-Solver/assets/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Why solve Sudoku by hand, when you can write script to solve them for ya ?!</h2>
   <p align="center">
     <a href="https://github.com/myhackera/Sudoku Solver/LICENSE">
